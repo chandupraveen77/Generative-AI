@@ -1,0 +1,503 @@
+CustomerID,Gender,SeniorCitizen,Partner,Tenure,MonthlyCharges,TotalCharges,Contract,Churn
+CUST-1001,Female,1,Yes,28,41.63,1177.53,Two year,No
+CUST-1002,Female,0,No,1,94.51,91.29,One year,No
+CUST-1003,Male,0,No,14,27.57,370.41,One year,No
+CUST-1004,Male,0,Yes,49,26.17,1255.81,Two year,No
+CUST-1005,Female,0,Yes,-5,84.71,0.0,One year,No
+CUST-1006,Male,0,No,36,63.82,2374.28,Month-to-month,Yes
+CUST-1007,Male,0,Yes,22,71.93,1542.08,One year,No
+CUST-1008,Male,0,Yes,30,100.84,3117.48,One year,Yes
+CUST-1009,Male,0,No,28,84.12,2330.78,Two year,No
+CUST-1010,Female,1,No,55,108.48,5906.38,Month-to-month,No
+CUST-1011,Male,0,Yes,7,104.79,708.06,Month-to-month,No
+CUST-1012,Female,0,No,-1,78.14,,One year,No
+CUST-1013,Male,0,Yes,69,93.71,6639.67,One year,Yes
+CUST-1014,Female,1,Yes,34,115.92,4044.53,Two year,No
+CUST-1015,Female,0,Yes,20,55.83,1078.81,Two year,No
+CUST-1016,Female,0,Yes,47,106.56,5174.43,One year,Yes
+CUST-1017,Male,0,Yes,11,91.81,1041.83,Two year,No
+CUST-1018,Male,0,Yes,34,71.28,2449.35,Unknown_Plan,No
+CUST-1019,Male,0,No,48,62.28,2994.69,Month-to-month,Yes
+CUST-1020,Male,0,Yes,29,18.97,561.56,Month-to-month,Yes
+CUST-1021,Male,0,Yes,66,42.17,2830.25,Month-to-month,No
+CUST-1022,Female,0,No,53,37.39,1901.79,One year,No
+CUST-1023,Female,0,Yes,0,24.34,0.0,Two year,No
+CUST-1024,Male,0,Yes,69,63.34,4336.32,One year,No
+CUST-1025,Male,0,Yes,7,83.79,588.91,Month-to-month,No
+CUST-1026,Male,0,No,62,39.73,2438.88,Month-to-month,Yes
+CUST-1027,Male,0,No,59,46.92,2822.7,Two year,No
+CUST-1028,Female,1,No,28,115.61,3262.71,Two year,Yes
+CUST-1029,Female,1,No,65,110.65,7214.64,Month-to-month,No
+CUST-1030, Female ,0,Yes,9,86.11,754.47,Month-to-month,No
+CUST-1031,Male,0,Yes,11,60.38,669.74,Two year,No
+CUST-1032,Female,0,No,31,44.94,1341.72,Two year,No
+CUST-1033,Female,0,Yes,2,64.31,135.03,Month-to-month,Yes
+CUST-1034,Male,0,Yes,45,106.78,4987.34,One year,No
+CUST-1035,Female,0,No,68,19.04,1335.78,One year,No
+CUST-1036,Male,0,Yes,34,29.85,975.02,Two year,No
+CUST-1037,Female,0,No,27,87.34,2441.4,Two year,No
+CUST-1038,Male,1,No,36,22.68,802.89,Month-to-month,No
+CUST-1039,Female,0,No,71,89.17,6369.63,Month-to-month,Yes
+CUST-1040,Male,0,No,71,33.13,2264.6,One year,No
+CUST-1041,Male,0,Yes,32,85.28,2689.03,Two year,No
+CUST-1042,Female,0,Yes,31,105.14,3414.55,Free-Trial-Lifetime,No
+CUST-1043,Male,0,No,53,98.87,5430.88,Month-to-month,Yes
+CUST-1044,Male,0,Yes,61,40.6,,One year,No
+CUST-1045,Male,0,Yes,52,51.24,2761.56,One year,No
+CUST-1046,Female,0,No,4,29.84,124.97,Month-to-month,No
+CUST-1047,Female,1,No,45,91.47,4039.46,Two year,No
+CUST-1048,Male,0,Yes,0,22.71,0.0,One year,Yes
+CUST-1049,Male,0,Yes,43,80.88,3534.66,Month-to-month,No
+CUST-1050,Female,0,No,42,999.99,41141.34,Month-to-month,Yes
+CUST-1051,Female,0,Yes,39,59.06,2380.21,One year,No
+CUST-1052,Female,0,No,60,62.65,,Two year,No
+CUST-1053,Male,0,No,66,84.97,5674.9,Month-to-month,No
+CUST-1054,Male,0,Yes,26,33.06,820.55,One year,No
+CUST-1055,Male,0,Yes,50,67.93,3309.54,Two year,No
+CUST-1056,Male,0,Yes,23,99.06,2323.02,One year,Yes
+CUST-1057,Male,0,Yes,59,31.65,,Two year,No
+CUST-1058,Female,0,No,65,61.14,4135.79,One year,No
+CUST-1059,Female,0,Yes,36,95.21,3434.86,Two year,Yes
+CUST-1060,MALE,1,No,31,45.56,1386.9,Two year,Yes
+CUST-1061,Male,0,Yes,28,24.7,685.21,Two year,No
+CUST-1062,Male,0,No,50,109.19,5505.4,Two year,Yes
+CUST-1063,Female,0,No,39,93.97,3794.36,One year,No
+CUST-1064,Male,0,No,56,67.06,3713.62,Two year,No
+CUST-1065,Female,0,No,17,116.81,1992.55,One year,No
+CUST-1066,Male,1,No,18,105.37,1836.29,One year,No
+CUST-1067,Male,0,No,49,46.21,2366.46,One year,No
+CUST-1068,Male,0,Yes,45,40.78,1755.94,Two year,Yes
+CUST-1069,Male,0,Yes,3,80.69,235.74,One year,No
+CUST-1070,Male,0,No,48,35.11,1703.35,Two year,No
+CUST-1071,Male,0,Yes,4,111.6,,One year,No
+CUST-1072,Male,1,Yes,14,88.32,1211.95,Two year,No
+CUST-1073,Male,0,Yes,45,71.79,3282.73,Month-to-month,No
+CUST-1074,Female,1,No,63,28.86,1901.96,Two year,No
+CUST-1075,Female,0,No,23,92.0,2214.49,One year,No
+CUST-1076,Female,0,No,42,103.85,4505.95,Month-to-month,Yes
+CUST-1077,Female,0,No,49,52.06,2549.49,B2B_Legacy,No
+CUST-1078,Male,0,No,44,46.36,2059.45,One year,No
+CUST-1079,Male,1,No,63,74.05,4544.01,One year,No
+CUST-1080,Female,0,Yes,12,47.82,568.35,Month-to-month,Yes
+CUST-1081,Female,0,No,55,118.41,6545.37,One year,No
+CUST-1082,Female,0,Yes,16,90.74,1425.06,Two year,No
+CUST-1083,Male,0,No,36,91.07,3434.78,Two year,No
+CUST-1084,Male,0,No,30,54.52,1603.26,Two year,No
+CUST-1085,Female,1,Yes,71,47.61,3530.43,Two year,No
+CUST-1086,Female,1,Yes,37,65.42,2406.13,Month-to-month,No
+CUST-1087,Female,0,No,15,100.87,1498.03,Month-to-month,Yes
+CUST-1088,Male,1,No,11,118.14,1249.96,One year,No
+CUST-1089,Male,0,No,58,109.55,6225.14,Two year,No
+CUST-1090,fe-male,0,Yes,13,113.48,1432.13,Month-to-month,Yes
+CUST-1091,Male,1,Yes,71,25.79,1740.03,One year,No
+CUST-1092,Female,0,Yes,37,89.3,3371.17,One year,Yes
+CUST-1093,Male,0,Yes,55,29.79,1593.36,Month-to-month,No
+CUST-1094,Male,1,Yes,40,78.05,3223.23,One year,No
+CUST-1095,Female,0,No,35,68.55,2397.76,Month-to-month,No
+CUST-1096,Female,0,No,4,27.43,114.79,Two year,No
+CUST-1097,Male,0,No,6,94.94,551.14,Two year,No
+CUST-1098,Female,0,No,63,115.64,7263.47,One year,No
+CUST-1099,Male,0,No,-2,87.96,0.0,One year,No
+CUST-1100,Female,0,Yes,59,27.1,1559.31,Month-to-month,No
+CUST-1101,Female,0,Yes,70,64.68,4325.76,Two year,No
+CUST-1102,Female,0,Yes,27,45.09,1172.51,One year,No
+CUST-1103,Female,1,Yes,21,49.48,988.55,One year,Yes
+CUST-1104,Male,0,Yes,20,68.34,1396.41,Two year,No
+CUST-1105,Female,0,No,32,64.16,1980.16,Month-to-month,No
+CUST-1106,Male,0,No,54,52.41,2911.57,One year,No
+CUST-1107,Female,0,No,20,63.13,1260.62,One year,No
+CUST-1108,Female,0,No,25,116.82,2844.22,One year,Yes
+CUST-1109,Female,1,No,49,57.05,2841.21,Two year,No
+CUST-1110,Female,0,Yes,65,115.27,7366.67,Month-to-month,No
+CUST-1111,Female,1,No,2,90.86,180.08,Two year,No
+CUST-1112,Male,0,No,44,80.89,3522.67,Month-to-month,No
+CUST-1113,Female,0,No,70,21.86,1464.16,Two year,No
+CUST-1114,Female,0,Yes,56,116.57,,Two year,No
+CUST-1115,Female,0,No,4,22.87,94.19,One year,No
+CUST-1116,Female,1,No,24,35.33,812.22,One year,No
+CUST-1117,Male,0,Yes,30,64.6,1890.32,One year,No
+CUST-1118,Female,0,Yes,10,62.64,616.73,Two year,No
+CUST-1119,Female,0,No,39,38.27,1475.32,One year,Yes
+CUST-1120,Female,0,No,38,20.45,802.75,One year,No
+CUST-1121,Male,0,No,37,96.21,3463.7,One year,Yes
+CUST-1122,Male,0,Yes,13,109.04,1438.26,One year,No
+CUST-1123,Male,0,Yes,12,109.67,1293.24,One year,Yes
+CUST-1124,Male,0,No,68,68.68,4564.0,Month-to-month,Yes
+CUST-1125,Female,0,No,44,99.08,,Month-to-month,Yes
+CUST-1126,Male,0,No,72,55.01,4075.85,Month-to-month,Yes
+CUST-1127,Male,0,No,49,100.9,5161.78,Month-to-month,No
+CUST-1128,Female,1,No,29,83.34,2449.59,One year,No
+CUST-1129,Female,0,Yes,18,22.81,391.58,One year,Yes
+CUST-1130,Male,0,Yes,50,63.84,3246.42,Two year,No
+CUST-1131,Female,0,Yes,54,84.07,4691.27,Two year,No
+CUST-1132,Female,1,No,28,62.81,1837.92,One year,Yes
+CUST-1133,Female,0,No,8,58.26,451.62,Month-to-month,No
+CUST-1134,Female,1,Yes,3,23.33,68.82,Month-to-month,No
+CUST-1135,Male,1,Yes,28,99.96,2724.15,Month-to-month,No
+CUST-1136,Male,0,Yes,17,72.54,1269.99,Month-to-month,No
+CUST-1137,Male,1,No,31,77.43,2284.1,One year,Yes
+CUST-1138,Female,0,Yes,61,63.3,3808.03,Two year,Yes
+CUST-1139,Male,0,Yes,67,48.56,3300.16,Month-to-month,Yes
+CUST-1140,Female,0,No,14,67.52,,Month-to-month,No
+CUST-1141,Female,0,Yes,17,45.89,790.51,Two year,No
+CUST-1142,Female,0,No,59,69.06,4046.1,Two year,Yes
+CUST-1143,Male,0,Yes,53,52.31,2759.54,One year,No
+CUST-1144,Female,0,No,48,114.09,5578.63,One year,Yes
+CUST-1145,Male,1,Yes,48,99.83,4818.85,Two year,No
+CUST-1146,Female,0,No,46,106.05,5093.5,One year,No
+CUST-1147,Male,0,No,46,28.66,1319.34,Month-to-month,No
+CUST-1148,Male,0,No,72,55.19,4078.03,Two year,No
+CUST-1149,Female,0,Yes,35,21.16,723.81,One year,No
+CUST-1150,Female,1,Yes,52,25.24,1344.11,Month-to-month,Yes
+CUST-1151,Male,0,No,44,34.07,1470.84,One year,No
+CUST-1152,Male,0,Yes,21,94.07,1886.53,Month-to-month,Yes
+CUST-1153,Female,0,No,54,45.7,2530.71,Month-to-month,Yes
+CUST-1154,Male,0,No,68,85.3,5536.72,One year,No
+CUST-1155,Male,1,No,28,95.37,2740.9,One year,No
+CUST-1156,Male,0,No,23,31.23,720.63,Month-to-month,No
+CUST-1157,Female,1,Yes,56,20.13,1174.76,One year,No
+CUST-1158,Female,0,No,38,29.82,1078.87,One year,No
+CUST-1159,Female,0,No,12,62.14,716.29,One year,No
+CUST-1160,Male,0,No,44,40.52,1832.64,Month-to-month,No
+CUST-1161,Male,0,Yes,45,53.54,2519.7,Two year,No
+CUST-1162,Male,1,No,26,35.69,895.73,Two year,Yes
+CUST-1163,Female,0,No,42,105.11,4470.78,Month-to-month,Yes
+CUST-1164,Female,0,No,36,77.69,2755.43,Month-to-month,Yes
+CUST-1165,Female,1,No,37,25.96,995.51,Month-to-month,No
+CUST-1166,Female,0,Yes,58,109.61,6402.93,Month-to-month,Yes
+CUST-1167,Female,0,Yes,58,28.65,1728.02,One year,No
+CUST-1168,Male,0,Yes,6,43.15,257.29,One year,No
+CUST-1169,Male,0,No,50,59.33,2918.55,Two year,Yes
+CUST-1170,Female,1,Yes,72,86.43,6088.64,Two year,No
+CUST-1171,Male,0,Yes,45,49.43,2259.06,Two year,No
+CUST-1172,Male,0,No,43,99.98,4372.28,Two year,No
+CUST-1173,Male,0,No,66,54.61,3554.74,Month-to-month,No
+CUST-1174,Female,0,No,25,41.02,988.33,Month-to-month,Yes
+CUST-1175,Male,0,Yes,44,106.33,4733.74,Two year,No
+CUST-1176,Male,0,Yes,57,22.64,1272.97,Two year,No
+CUST-1177,Female,0,No,30,71.92,2116.49,One year,No
+CUST-1178,Male,0,No,60,95.58,5894.3,Two year,No
+CUST-1179,Male,0,Yes,33,23.49,773.67,One year,No
+CUST-1180,Male,0,Yes,37,26.68,953.63,One year,No
+CUST-1181,Male,0,Yes,29,100.33,3021.48,Month-to-month,Yes
+CUST-1182,Female,0,Yes,50,118.2,5836.07,Month-to-month,Yes
+CUST-1183,Male,0,No,19,32.08,596.53,One year,No
+CUST-1184,Male,0,No,58,80.09,4833.75,Month-to-month,Yes
+CUST-1185,Male,0,No,15,96.26,1406.02,Month-to-month,Yes
+CUST-1186,Female,0,No,9,29.39,275.23,Two year,No
+CUST-1187,Male,0,No,55,18.41,997.65,Two year,No
+CUST-1188,Male,0,No,9,114.07,1031.16,Two year,No
+CUST-1189,Female,0,Yes,50,116.84,5698.08,Month-to-month,Yes
+CUST-1190,Male,0,Yes,43,31.66,1341.27,One year,No
+CUST-1191,Male,0,No,62,81.74,5225.74,Month-to-month,No
+CUST-1192,Female,1,Yes,6,97.76,609.19,One year,No
+CUST-1193,Female,0,No,33,21.93,734.32,One year,No
+CUST-1194,Male,0,No,35,30.76,1062.39,One year,No
+CUST-1195,Female,0,Yes,64,87.8,5544.66,Two year,Yes
+CUST-1196,Male,0,Yes,56,78.8,4555.04,Two year,No
+CUST-1197,Male,1,No,40,63.06,2577.3,Month-to-month,No
+CUST-1198,Female,0,No,56,45.84,2690.26,Month-to-month,Yes
+CUST-1199,Female,0,Yes,4,32.6,131.8,One year,Yes
+CUST-1200,Male,0,No,47,56.73,2684.24,Two year,No
+CUST-1201,Female,0,No,57,94.94,5451.58,Two year,No
+CUST-1202,Female,0,Yes,15,20.85,302.93,Two year,No
+CUST-1203,Male,0,No,58,39.81,2334.81,Two year,No
+CUST-1204,Female,0,Yes,10,63.68,662.19,One year,No
+CUST-1205,Female,0,Yes,71,72.74,5366.64,Month-to-month,No
+CUST-1206,Male,0,Yes,16,117.26,1930.96,Month-to-month,No
+CUST-1207,Male,0,No,60,99.02,5971.88,Two year,No
+CUST-1208,Male,0,No,68,59.53,4011.38,Two year,Yes
+CUST-1209,Female,0,No,60,86.6,5115.21,Two year,No
+CUST-1210,Male,0,Yes,56,68.79,3994.08,Month-to-month,No
+CUST-1211,Female,0,No,29,53.03,1605.68,One year,No
+CUST-1212,Female,0,No,17,81.06,1393.79,Month-to-month,No
+CUST-1213,Male,0,Yes,22,84.45,1898.89,Two year,No
+CUST-1214,Male,0,Yes,11,22.82,254.57,Two year,No
+CUST-1215,Male,0,No,4,68.3,276.67,One year,No
+CUST-1216,Female,0,No,39,63.83,2536.32,Month-to-month,Yes
+CUST-1217,Female,0,No,19,49.66,964.14,Two year,No
+CUST-1218,Female,0,Yes,48,70.01,3228.14,Month-to-month,No
+CUST-1219,Female,0,Yes,13,23.34,316.93,Two year,No
+CUST-1220,Male,0,No,25,94.94,2373.09,Two year,No
+CUST-1221,Female,0,Yes,51,69.05,3685.9,Month-to-month,No
+CUST-1222,Male,1,No,61,46.97,2724.25,Month-to-month,Yes
+CUST-1223,Female,0,No,47,22.8,1023.5,Two year,No
+CUST-1224,Female,1,No,71,46.36,3452.55,Two year,No
+CUST-1225,Male,0,No,48,98.14,4634.92,One year,No
+CUST-1226,Male,0,No,65,22.3,1382.67,Two year,No
+CUST-1227,Female,0,Yes,66,32.3,2223.76,One year,No
+CUST-1228,Female,0,No,39,65.98,2448.84,One year,No
+CUST-1229,Female,0,Yes,61,44.94,2783.99,Two year,No
+CUST-1230,Male,0,Yes,68,81.47,5606.29,One year,No
+CUST-1231,Male,1,Yes,25,20.15,494.36,Month-to-month,Yes
+CUST-1232,Male,0,No,8,89.18,714.77,Two year,No
+CUST-1233,Female,0,No,23,64.45,1487.26,Two year,No
+CUST-1234,Female,0,Yes,32,46.29,1451.43,One year,No
+CUST-1235,Male,0,No,41,66.47,2741.75,Two year,No
+CUST-1236,Male,0,No,51,100.5,5358.51,Month-to-month,Yes
+CUST-1237,Female,0,Yes,45,111.11,5077.94,Two year,No
+CUST-1238,Male,0,No,72,88.22,6121.44,Two year,No
+CUST-1239,Male,0,Yes,30,23.53,699.78,Two year,No
+CUST-1240,Male,1,Yes,53,83.87,4614.31,One year,No
+CUST-1241,Male,0,No,42,46.93,1884.17,Month-to-month,No
+CUST-1242,Male,0,Yes,23,60.25,1432.53,Month-to-month,No
+CUST-1243,Female,0,Yes,38,106.36,3843.34,Two year,No
+CUST-1244,Female,0,No,18,103.78,1862.07,Month-to-month,No
+CUST-1245,Female,0,No,33,90.47,2840.44,One year,No
+CUST-1246,Male,0,No,55,70.04,3693.0,Two year,Yes
+CUST-1247,Male,0,Yes,1,44.46,43.28,One year,No
+CUST-1248,Female,0,Yes,34,83.95,2909.32,Month-to-month,No
+CUST-1249,Female,0,No,65,111.02,7496.15,One year,No
+CUST-1250,Female,0,Yes,29,114.46,3312.1,One year,No
+CUST-1251,Female,0,No,69,98.85,7042.73,Month-to-month,No
+CUST-1252,Male,0,No,10,110.43,1061.48,Two year,No
+CUST-1253,Male,0,Yes,22,51.23,1129.35,Month-to-month,No
+CUST-1254,Female,1,No,8,63.82,511.24,One year,No
+CUST-1255,Female,0,No,3,58.04,179.63,Two year,No
+CUST-1256,Male,1,No,9,72.64,625.01,Month-to-month,No
+CUST-1257,Female,1,No,24,95.53,2353.67,Two year,No
+CUST-1258,Female,0,No,58,105.65,6376.95,One year,Yes
+CUST-1259,Male,0,No,16,36.19,581.2,Two year,No
+CUST-1260,Male,0,Yes,39,64.78,2581.77,One year,No
+CUST-1261,Male,0,No,20,45.95,959.2,Two year,No
+CUST-1262,Male,0,No,3,42.44,121.81,Two year,Yes
+CUST-1263,Male,0,Yes,52,62.37,3256.14,Month-to-month,Yes
+CUST-1264,Female,0,No,42,42.06,1832.99,Two year,No
+CUST-1265,Female,0,Yes,72,113.58,8488.28,Month-to-month,No
+CUST-1266,Female,0,Yes,45,112.88,5166.64,Two year,No
+CUST-1267,Female,0,No,49,36.73,1806.6,Month-to-month,No
+CUST-1268,Female,0,Yes,60,110.18,6652.04,One year,No
+CUST-1269,Male,0,No,27,51.44,1330.42,One year,No
+CUST-1270,Male,0,Yes,7,45.23,322.11,Two year,Yes
+CUST-1271,Male,0,Yes,62,39.24,2531.91,One year,No
+CUST-1272,Male,0,Yes,16,93.31,1530.93,Month-to-month,No
+CUST-1273,Male,0,Yes,71,50.57,3512.58,One year,No
+CUST-1274,Female,0,No,66,106.97,7036.02,Two year,No
+CUST-1275,Female,0,No,41,59.85,2469.19,Month-to-month,No
+CUST-1276,Male,0,No,38,33.57,1253.96,One year,No
+CUST-1277,Male,0,No,33,94.97,3130.44,Two year,No
+CUST-1278,Female,0,No,22,32.32,714.35,Month-to-month,No
+CUST-1279,Male,0,Yes,7,95.07,,Two year,Yes
+CUST-1280,Male,1,No,48,24.33,1183.92,Two year,No
+CUST-1281,Female,1,No,2,19.93,40.75,Two year,No
+CUST-1282,Male,0,No,23,29.01,640.29,Month-to-month,Yes
+CUST-1283,Female,0,No,51,26.19,1397.04,One year,No
+CUST-1284,Male,0,Yes,5,27.65,136.58,Two year,No
+CUST-1285,Male,0,Yes,64,103.21,6701.16,One year,No
+CUST-1286,Male,0,Yes,30,39.5,1228.62,Two year,No
+CUST-1287,Male,0,No,70,74.88,4996.77,One year,Yes
+CUST-1288,Male,0,No,10,48.33,486.39,Two year,No
+CUST-1289,Female,0,No,50,94.19,4539.93,Two year,No
+CUST-1290,Female,1,No,30,102.54,3027.16,Two year,No
+CUST-1291,Female,0,No,4,81.98,337.22,One year,No
+CUST-1292,Female,0,No,56,36.92,2085.27,One year,Yes
+CUST-1293,Female,0,Yes,11,45.18,491.02,Two year,No
+CUST-1294,Female,0,Yes,12,18.77,220.92,One year,No
+CUST-1295,Male,1,Yes,56,63.36,3567.58,One year,Yes
+CUST-1296,Male,0,Yes,42,105.05,4196.94,One year,No
+CUST-1297,Male,0,Yes,67,35.29,2336.23,Month-to-month,Yes
+CUST-1298,Female,0,Yes,22,61.93,1351.71,One year,No
+CUST-1299,Female,0,Yes,64,77.93,4835.67,Month-to-month,Yes
+CUST-1300,Male,0,No,49,99.06,4771.2,One year,No
+CUST-1301,Male,0,Yes,62,49.83,3232.99,One year,No
+CUST-1302,Female,0,Yes,42,56.04,,One year,No
+CUST-1303,Male,0,Yes,71,20.96,1521.97,Two year,No
+CUST-1304,Female,0,Yes,53,85.88,4387.41,One year,Yes
+CUST-1305,Male,0,No,10,63.38,640.01,Two year,No
+CUST-1306,Female,0,No,69,77.93,5600.0,Month-to-month,No
+CUST-1307,Female,0,Yes,52,115.41,5900.26,One year,Yes
+CUST-1308,Male,0,Yes,58,55.85,3227.34,Two year,No
+CUST-1309,Male,0,Yes,62,28.76,1768.14,Month-to-month,Yes
+CUST-1310,Male,0,No,59,97.07,5739.22,One year,No
+CUST-1311,Female,0,No,41,25.0,978.33,Two year,Yes
+CUST-1312,Female,0,Yes,32,70.11,2255.17,One year,No
+CUST-1313,Female,0,No,24,36.98,901.48,One year,Yes
+CUST-1314,Male,0,No,50,18.7,908.33,One year,No
+CUST-1315,Male,0,Yes,47,51.01,2387.29,One year,No
+CUST-1316,Female,0,No,50,79.69,4019.17,One year,No
+CUST-1317,Female,0,No,11,85.8,926.17,Month-to-month,Yes
+CUST-1318,Male,0,Yes,66,57.29,3817.6,Two year,No
+CUST-1319,Male,0,Yes,72,35.02,2468.2,Month-to-month,Yes
+CUST-1320,Female,0,No,2,66.95,129.82,One year,No
+CUST-1321,Female,0,No,54,89.62,4812.31,Month-to-month,Yes
+CUST-1322,Male,0,Yes,38,21.54,796.0,One year,No
+CUST-1323,Female,0,No,71,69.59,4976.82,One year,No
+CUST-1324,Female,0,Yes,57,73.16,4374.36,Month-to-month,No
+CUST-1325,Male,0,Yes,58,44.66,2684.1,Month-to-month,Yes
+CUST-1326,Male,0,Yes,27,99.73,2716.39,One year,No
+CUST-1327,Female,0,Yes,27,100.01,,Two year,No
+CUST-1328,Female,0,Yes,42,116.64,4797.29,Two year,Yes
+CUST-1329,Male,1,No,8,117.99,978.57,Month-to-month,No
+CUST-1330,Male,0,No,32,94.78,3086.41,One year,Yes
+CUST-1331,Female,0,No,58,25.84,1542.87,Month-to-month,Yes
+CUST-1332,Female,0,No,59,113.75,6595.34,Month-to-month,No
+CUST-1333,Male,0,No,46,103.69,4910.77,One year,Yes
+CUST-1334,Female,0,No,35,50.7,1736.1,Two year,No
+CUST-1335,Female,0,Yes,6,28.26,174.37,One year,Yes
+CUST-1336,Male,0,Yes,55,38.58,2161.92,Month-to-month,No
+CUST-1337,Female,1,No,12,84.04,983.31,One year,No
+CUST-1338,Male,1,No,30,61.39,1766.41,Month-to-month,Yes
+CUST-1339,Female,1,Yes,67,86.59,5516.84,Two year,No
+CUST-1340,Male,0,No,17,66.26,1095.89,Month-to-month,No
+CUST-1341,Male,1,No,39,32.03,1283.33,Month-to-month,No
+CUST-1342,Male,1,Yes,22,62.48,1405.13,Two year,No
+CUST-1343,Female,0,No,28,26.96,724.72,Month-to-month,No
+CUST-1344,Female,0,No,41,97.75,3906.67,Two year,Yes
+CUST-1345,Female,0,Yes,39,38.9,1533.32,Month-to-month,No
+CUST-1346,Female,0,Yes,64,57.03,,Two year,No
+CUST-1347,Male,0,No,17,57.13,1004.13,One year,No
+CUST-1348,Male,0,Yes,3,77.28,220.57,Month-to-month,Yes
+CUST-1349,Male,0,No,65,47.04,3122.61,One year,No
+CUST-1350,Female,1,Yes,36,26.65,919.01,Month-to-month,No
+CUST-1351,Male,0,No,9,49.42,442.0,Month-to-month,Yes
+CUST-1352,Male,0,Yes,59,79.79,4498.13,Two year,No
+CUST-1353,Male,1,Yes,2,34.72,72.59,Two year,No
+CUST-1354,Female,0,Yes,35,91.91,3093.98,Month-to-month,Yes
+CUST-1355,Female,0,Yes,34,89.84,3077.97,Month-to-month,Yes
+CUST-1356,Female,1,Yes,48,34.06,1679.57,Two year,No
+CUST-1357,Male,0,Yes,6,104.55,596.71,Month-to-month,Yes
+CUST-1358,Female,0,Yes,5,73.81,384.33,Two year,No
+CUST-1359,Male,0,No,41,45.51,1787.15,One year,Yes
+CUST-1360,Male,0,Yes,52,25.18,1304.79,One year,No
+CUST-1361,Female,0,No,2,55.33,108.35,One year,No
+CUST-1362,Male,0,No,26,91.86,2399.48,Month-to-month,Yes
+CUST-1363,Female,1,No,2,113.82,216.29,Two year,No
+CUST-1364,Female,1,Yes,54,67.7,3494.91,Month-to-month,No
+CUST-1365,Male,1,Yes,67,59.76,4162.31,One year,No
+CUST-1366,Male,0,Yes,51,25.77,1323.18,One year,No
+CUST-1367,Male,0,No,41,111.32,4515.26,Two year,No
+CUST-1368,Female,0,Yes,26,31.93,852.61,Month-to-month,Yes
+CUST-1369,Male,0,No,53,30.38,1587.32,Month-to-month,No
+CUST-1370,Female,0,Yes,12,34.09,416.69,Two year,No
+CUST-1371,Male,0,No,19,27.42,507.86,One year,No
+CUST-1372,Male,0,No,23,21.37,486.81,One year,No
+CUST-1373,Male,1,Yes,18,30.46,524.25,Month-to-month,Yes
+CUST-1374,Female,0,Yes,34,110.45,3595.69,Month-to-month,Yes
+CUST-1375,Female,0,Yes,43,30.56,1372.2,Month-to-month,Yes
+CUST-1376,Female,0,No,64,21.21,1382.31,Month-to-month,Yes
+CUST-1377,Male,0,No,20,21.73,,Month-to-month,No
+CUST-1378,Female,0,No,8,27.07,214.03,One year,No
+CUST-1379,Male,0,Yes,49,96.83,,Two year,No
+CUST-1380,Female,0,No,50,45.43,2163.85,Two year,No
+CUST-1381,Female,1,No,68,54.17,3714.5,Month-to-month,No
+CUST-1382,Male,0,Yes,35,71.89,2589.43,Two year,Yes
+CUST-1383,Male,0,No,46,112.24,5416.83,Month-to-month,Yes
+CUST-1384,Female,0,No,4,88.95,350.52,Two year,No
+CUST-1385,Male,0,No,70,49.31,3448.4,Month-to-month,Yes
+CUST-1386,Male,1,No,1,51.59,52.18,Month-to-month,Yes
+CUST-1387,Male,0,No,8,20.45,165.02,Month-to-month,No
+CUST-1388,Female,0,No,51,77.14,3869.84,One year,No
+CUST-1389,Male,0,No,63,83.49,5088.5,Two year,No
+CUST-1390,Female,0,Yes,49,49.09,2450.75,Month-to-month,Yes
+CUST-1391,Male,0,No,5,36.55,179.43,Two year,No
+CUST-1392,Male,0,Yes,43,93.16,3900.92,One year,Yes
+CUST-1393,Male,0,No,58,19.4,1092.53,Two year,Yes
+CUST-1394,Female,0,Yes,7,57.04,408.57,Month-to-month,No
+CUST-1395,Female,0,No,70,55.97,4046.72,Two year,No
+CUST-1396,Male,0,Yes,5,47.89,235.11,Month-to-month,Yes
+CUST-1397,Male,0,Yes,10,73.23,761.45,Month-to-month,Yes
+CUST-1398,Female,0,No,22,79.29,1732.9,Month-to-month,Yes
+CUST-1399,Male,0,No,71,90.81,6595.79,One year,No
+CUST-1400,Female,0,Yes,51,75.71,3992.43,Month-to-month,Yes
+CUST-1401,Male,0,No,62,38.32,2263.16,Month-to-month,No
+CUST-1402,Male,0,Yes,40,97.13,3873.91,Two year,Yes
+CUST-1403,Female,0,No,48,37.0,1695.12,One year,No
+CUST-1404,Male,0,Yes,20,93.85,1908.43,Month-to-month,No
+CUST-1405,Female,0,Yes,71,24.38,1711.44,Two year,No
+CUST-1406,Female,0,Yes,61,48.28,2914.1,Two year,Yes
+CUST-1407,Male,1,No,23,113.63,2526.5,Month-to-month,No
+CUST-1408,Male,1,Yes,56,38.54,2227.86,Month-to-month,No
+CUST-1409,Female,0,Yes,12,57.25,679.95,One year,No
+CUST-1410,Female,0,Yes,67,96.81,6234.94,Month-to-month,Yes
+CUST-1411,Male,0,Yes,37,105.43,4049.2,One year,Yes
+CUST-1412,Female,0,No,5,35.56,176.07,Two year,No
+CUST-1413,Female,1,No,31,23.2,717.42,One year,No
+CUST-1414,Male,0,No,40,46.42,1855.24,Two year,No
+CUST-1415,Male,1,No,42,45.33,1888.01,Two year,Yes
+CUST-1416,Female,0,No,63,94.58,6177.33,Month-to-month,Yes
+CUST-1417,Male,1,No,18,96.69,1744.65,Two year,Yes
+CUST-1418,Male,0,Yes,8,43.32,345.05,One year,No
+CUST-1419,Female,0,No,65,58.14,3938.98,Two year,Yes
+CUST-1420,Female,0,No,23,114.78,2633.23,Two year,No
+CUST-1421,Male,0,No,12,46.9,556.42,Month-to-month,No
+CUST-1422,Male,0,Yes,27,45.29,1211.76,Month-to-month,No
+CUST-1423,Male,0,Yes,23,78.66,1720.25,One year,No
+CUST-1424,Female,0,No,55,108.25,6163.08,One year,Yes
+CUST-1425,Female,0,No,14,18.99,279.14,One year,No
+CUST-1426,Female,0,Yes,62,24.67,1604.24,Two year,No
+CUST-1427,Female,0,No,25,33.32,855.11,Month-to-month,No
+CUST-1428,Female,0,Yes,4,84.12,353.22,One year,No
+CUST-1429,Female,0,Yes,25,52.74,1346.63,Two year,No
+CUST-1430,Female,0,No,65,48.42,3043.43,Two year,No
+CUST-1431,Male,0,No,17,92.71,1611.56,Two year,No
+CUST-1432,Male,0,No,12,40.59,473.6,One year,No
+CUST-1433,Female,0,No,60,103.8,6209.65,Two year,No
+CUST-1434,Male,0,Yes,65,30.29,2004.43,Two year,No
+CUST-1435,Male,0,Yes,18,117.98,2090.23,Two year,No
+CUST-1436,Female,1,Yes,11,67.25,749.44,Month-to-month,Yes
+CUST-1437,Male,1,No,27,94.75,2473.47,Month-to-month,Yes
+CUST-1438,Male,1,No,55,58.79,3383.91,One year,Yes
+CUST-1439,Male,0,Yes,42,94.31,3973.31,Month-to-month,No
+CUST-1440,Male,0,No,40,31.21,1233.86,Two year,No
+CUST-1441,Male,0,No,38,64.07,2439.6,Two year,No
+CUST-1442,Male,0,No,46,93.64,4163.09,One year,Yes
+CUST-1443,Male,0,Yes,28,92.02,2599.67,Month-to-month,Yes
+CUST-1444,Male,0,No,69,80.88,5633.14,Month-to-month,No
+CUST-1445,Male,1,Yes,54,62.9,3268.75,One year,No
+CUST-1446,Male,0,Yes,39,60.55,2267.22,Two year,No
+CUST-1447,Male,0,Yes,66,90.49,5744.04,Month-to-month,No
+CUST-1448,Female,0,Yes,34,101.82,3625.67,One year,No
+CUST-1449,Female,0,No,27,87.41,2355.51,Month-to-month,Yes
+CUST-1450,Male,0,No,20,113.67,2336.95,Month-to-month,No
+CUST-1451,Male,0,Yes,59,117.61,6797.45,One year,Yes
+CUST-1452,Male,0,No,47,98.81,4557.09,Two year,Yes
+CUST-1453,Male,1,Yes,22,51.28,1172.67,Two year,No
+CUST-1454,Male,0,No,24,29.69,705.45,One year,No
+CUST-1455,Female,0,No,54,83.46,4640.65,Month-to-month,Yes
+CUST-1456,Male,0,Yes,14,60.06,,Two year,No
+CUST-1457,Male,0,No,4,104.94,435.71,Two year,No
+CUST-1458,Male,0,No,15,107.45,1602.19,Month-to-month,Yes
+CUST-1459,Female,1,Yes,44,70.42,3156.81,Two year,Yes
+CUST-1460,Male,0,No,20,102.57,2063.37,Two year,Yes
+CUST-1461,Male,0,No,64,105.63,6472.92,One year,No
+CUST-1462,Female,0,Yes,65,40.63,2678.8,One year,No
+CUST-1463,Male,0,No,12,104.34,1245.45,Month-to-month,No
+CUST-1464,Male,1,No,5,74.24,352.65,Month-to-month,No
+CUST-1465,Female,0,Yes,59,113.76,6620.12,Month-to-month,No
+CUST-1466,Female,0,No,47,90.2,4075.77,Two year,Yes
+CUST-1467,Female,0,No,71,70.71,5121.87,Month-to-month,No
+CUST-1468,Female,1,No,14,43.81,594.69,Month-to-month,No
+CUST-1469,Female,0,Yes,44,29.08,1268.58,Two year,No
+CUST-1470,Male,0,No,59,84.42,5208.0,Month-to-month,No
+CUST-1471,Male,0,Yes,71,112.25,8239.78,One year,No
+CUST-1472,Male,0,Yes,17,28.66,494.89,Two year,No
+CUST-1473,Female,0,Yes,36,58.24,2063.69,One year,No
+CUST-1474,Male,1,No,71,104.75,7594.83,Two year,No
+CUST-1475,Male,0,No,45,110.83,4804.15,Two year,No
+CUST-1476,Male,0,No,15,94.71,1429.5,Two year,No
+CUST-1477,Female,0,No,55,99.48,5483.84,Month-to-month,Yes
+CUST-1478,Male,0,Yes,35,93.64,3166.27,One year,No
+CUST-1479,Male,0,No,27,93.99,2419.04,One year,Yes
+CUST-1480,Male,0,No,31,69.6,2221.64,Two year,No
+CUST-1481,Male,0,No,54,114.4,6471.54,One year,No
+CUST-1482,Male,1,No,26,80.62,2155.01,One year,No
+CUST-1483,Female,0,Yes,25,47.81,1156.69,Two year,Yes
+CUST-1484,Male,0,Yes,49,22.33,1070.0,One year,No
+CUST-1485,Female,1,No,20,22.26,464.28,Two year,Yes
+CUST-1486,Female,0,No,10,97.05,952.82,Month-to-month,No
+CUST-1487,Male,0,Yes,54,72.83,3894.84,One year,No
+CUST-1488,Male,0,No,47,47.75,2345.31,Two year,No
+CUST-1489,Male,1,No,58,42.4,2494.19,Two year,No
+CUST-1490,Male,0,No,49,110.3,5645.2,One year,Yes
+CUST-1491,Female,1,No,66,98.93,6493.83,Month-to-month,Yes
+CUST-1492,Male,0,Yes,13,35.07,476.71,Two year,No
+CUST-1493,Male,0,Yes,55,102.23,5457.11,Two year,No
+CUST-1494,Female,0,Yes,20,20.64,421.75,Month-to-month,Yes
+CUST-1495,Male,0,No,72,25.33,1882.42,One year,No
+CUST-1496,Female,0,No,41,19.95,832.12,Two year,Yes
+CUST-1497,Male,0,Yes,10,54.2,542.15,One year,No
+CUST-1498,Female,0,No,57,56.58,3328.95,Month-to-month,No
+CUST-1499,Male,1,No,70,47.9,3397.95,One year,No
+CUST-1500,Female,0,Yes,71,106.16,7267.05,Month-to-month,Yes
+CUST-1011,Male,0,Yes,7,104.79,708.06,Month-to-month,No
+CUST-1026,Male,0,No,62,39.73,2438.88,Month-to-month,Yes
